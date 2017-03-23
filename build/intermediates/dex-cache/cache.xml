@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ykchung\AndroidStudioProjects\Booking-master\BookingRoom-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\ykchung\AndroidStudioProjects\Booking-master\BookingRoom-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_208cc89146c761a161e1c422a2add93fac6e2a58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ykchung\AndroidStudioProjects\Booking-master\BookingRoom-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4aeca8a1bb612d45a5edd3215fc4a5811c9f1f56">
+        <dex dex="C:\Users\ykchung\AndroidStudioProjects\Booking-master\BookingRoom-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e20b4034bda82714fc892726ebe38e408d1fcc21\classes.dex" />
+    </item>
+
+</items>

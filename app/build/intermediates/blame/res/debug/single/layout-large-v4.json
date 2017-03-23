@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\ykchung\\AndroidStudioProjects\\Booking-master\\BookingRoom-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\screensaver.xml",
+        "source": "C:\\Users\\ykchung\\AndroidStudioProjects\\Booking-master\\BookingRoom-master\\app\\src\\main\\res\\layout-large\\screensaver.xml"
+    },
+    {
+        "merged": "C:\\Users\\ykchung\\AndroidStudioProjects\\Booking-master\\BookingRoom-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\meeting.xml",
+        "source": "C:\\Users\\ykchung\\AndroidStudioProjects\\Booking-master\\BookingRoom-master\\app\\src\\main\\res\\layout-large\\meeting.xml"
+    }
+]
